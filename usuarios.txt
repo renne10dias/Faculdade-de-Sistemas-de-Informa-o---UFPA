@@ -1,4 +1,0 @@
-renne,renne@gmail.com,123,884322345,tv dom pedro 1
-rafael,rafael@gmail.com,1234,223432345,rua mamorana
-josielson,josielso@gmail.com,12345,884345669,tv tal tal
-andrey,andrey@gmail.com,123456,998676543,tv primavera
